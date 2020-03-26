@@ -21,7 +21,7 @@ const styles = {
         fontSize:20
     },
     viewStyle:{
-        backgroundColor:'#a5a5a5',
+        backgroundColor:'#f2f2f2',
         height:60,
         justifyContent:'center',
         alignItems:'center',
@@ -30,6 +30,6 @@ const styles = {
             width:0,
             height:2
         },
-        shadowOpacity:0.5
+        shadowOpacity:0.7
     }
 }
